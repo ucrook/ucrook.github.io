@@ -1,5 +1,9 @@
 body {
     background-image: url('dark-keyboard.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
 }
 
 h1 {
